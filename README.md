@@ -9,14 +9,14 @@ This project is built using the [NestJS](https://github.com/nestjs/nest) framewo
 $ npm install
 ```
 
-## Compile and run the project
+## build and run the project
 
 ```bash
-# development
-$ npm run start
+# Optional Step: for initaial seed data
+$ npm run seed
 
-# watch mode
-$ npm run start:dev
+# build
+$ npm run build
 
 # production mode
 $ npm run start:prod
